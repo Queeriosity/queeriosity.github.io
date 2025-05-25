@@ -1,0 +1,8 @@
+[submodule "content_and_assets"]
+	path = content
+	url = https://github.com/AmanRathoreP/Queeriosity-Website-Content
+	branch = master
+[submodule "theme_blowfish"]
+	path = themes/blowfish
+	url = https://github.com/AmanRathoreP/blowfish
+	branch = main

@@ -1,0 +1,30 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Queeriosity"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/blowfish_logo_transparent.png"
+  logo = "img/queeriosity_logo_bg_less.png"
+  description = "The aim of this community is to create a space for queer people and allies throughout indian academia. To connect with like minded people and facilitate interactions with people all over India."
+
+# uncomment this if you want to use the author section in every article with author as Queeriosity
+# [params.author]
+#   name = "Queeriosity"
+#   email = "nuno@n9o.xyz"
+#   # image = "img/blowfish_logo.png"
+#   image = "img/queeriosity_logo_bg_less.png"
+#   headline = "A city for queer people."
+#   bio = "A city for queer people."
+#   links = [
+#     { website = "https://amanr.me/" },
+#     { github = "https://github.com/AmanRathoreP" },
+#     { linkedin = "https://www.linkedin.com/in/amanrathorep/" },
+#     { email = "mailto:aman.proj.rel@gmail.com" },
+#     { instagram = "https://www.instagram.com/aman__0864/" },
+#     { telegram = "https://t.me/aman0864" },
+#   ]

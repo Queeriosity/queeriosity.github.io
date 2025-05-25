@@ -1,0 +1,8 @@
+{
+    "name": "Your Name",
+    "image" : "img/author2.png",
+    "bio": "About the author",
+    "social": [
+        { "globe": "amanr.me" }
+    ]
+}
